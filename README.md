@@ -1,5 +1,5 @@
 # CosmosEcosystemCalendar2023
-This project will attempt to recruit other Validators to create a limited edition Cosmos Ecosystem Validator Calendar!  
+This project will attempt to recruit other Validators from any CosmosSDK chain, to create a limited edition Cosmos Ecosystem Validator Calendar!  
 When finalized, the calendar will be mintable on Stargaze.
 
 The end goal would be to produce a printable asset to have a physical calendar for display within your home.
